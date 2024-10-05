@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [Style-Sphere](https://github.com/Abhishek-Thakur14/Style-Sphere)
+- 🔭 I’m currently working on [github.com/Abhishek-Thakur14](https://github.com/Abhishek-Thakur14/Style-Sphere)
 
 - 🌱 I’m currently learning *Next.js & Data Structure*
 
