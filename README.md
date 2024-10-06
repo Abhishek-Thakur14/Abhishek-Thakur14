@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [github.com/Abhishek-Thakur14](https://github.com/Abhishek-Thakur14/Style-Sphere)
+- 🔭 I’m currently working on [GrabMART](https://github.com/Abhishek-Thakur14/GrabMART)
 
 - 🌱 I’m currently learning *Next.js & Data Structure*
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *thecode.abhi@gmail.com*
 
-- ⚡ Fun fact *My code and I both enjoy debugging—it's like a detective story where we’re always the heroes!*
+- ⚡ Fun fact *My code and I share a secret language; we communicate in algorithms and dance in loops!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
