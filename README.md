@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhishek-Thakur14/Abhishek-Thakur14/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/Abhishek-Thakur14/Abhishek-Thakur14/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Skilled MERN Stack Web Developer | Crafting Visually Impressive and Scalable Web Applications | Proficient in JavaScript, React, Node.js, MongoDB | Passionate About Competitive Coding | Open to New Opportunities.</h3>
 
