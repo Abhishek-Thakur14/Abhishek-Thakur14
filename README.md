@@ -1,4 +1,5 @@
-![logo](https://github.com/Abhishek-Thakur14/Abhishek-Thakur14/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner%20(4).png)
+![Download Software Engineers Vector for free](https://github.com/user-attachments/assets/deea2233-a5d8-4c60-ad1b-2383e3f3a02f)
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Skilled MERN Stack Web Developer | Crafting Visually Impressive and Scalable Web Applications | Proficient in JavaScript, React, Node.js, MongoDB | Passionate About Competitive Coding | Open to New Opportunities.</h3>
 
