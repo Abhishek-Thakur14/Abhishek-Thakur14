@@ -1,5 +1,4 @@
-![Download Software Engineers Vector for free](https://github.com/user-attachments/assets/deea2233-a5d8-4c60-ad1b-2383e3f3a02f)
-
+![image](https://github.com/user-attachments/assets/f75e154e-6aae-4d1e-b8c1-3333c7010fb2)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Skilled MERN Stack Web Developer | Crafting Visually Impressive and Scalable Web Applications | Proficient in JavaScript, React, Node.js, MongoDB | Passionate About Competitive Coding | Open to New Opportunities.</h3>
 
