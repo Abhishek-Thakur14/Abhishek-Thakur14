@@ -4,8 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [GrabMART](https://github.com/Abhishek-Thakur14/GrabMART)
-
+- 🔭 I’m currently working on Creating Data Pipelines in Azure 
 - 🌱 I’m currently learning *Data Engineering*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Thakur14](https://github.com/Abhishek-Thakur14)
