@@ -1,16 +1,16 @@
-!![image](https://github.com/user-attachments/assets/9bb8e878-66cf-402e-bfc0-88a70248c995)
+![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/0860a37a-b8a6-4282-a587-14140bd65bbe)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Skilled MERN Stack Web Developer | Crafting Visually Impressive and Scalable Web Applications | Proficient in JavaScript, React, Node.js, MongoDB | Passionate About Competitive Coding | Open to New Opportunities.</h3>
+<h3 align="center">Data Engineer | Cloud & Big Data | Azure | Databricks | ETL | Data Lakehouse | PySpark | Azure Data Factory | Synapse Analytics | Delta Lake | Skilled MERN Stack Developer | Open to New Opportunities. | Open to New Opportunities.</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🔭 I’m currently working on [GrabMART](https://github.com/Abhishek-Thakur14/GrabMART)
 
-- 🌱 I’m currently learning *Next.js & Data Structure*
+- 🌱 I’m currently learning *Data Engineering*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Thakur14](https://github.com/Abhishek-Thakur14)
 
-- 💬 Ask me about *Front-End & Back-end*
+- 💬 Ask me about * Data EngineerinFront-End & Back-end & Full Stack *
 
 - 📫 How to reach me *thecode.abhi@gmail.com*
 
