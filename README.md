@@ -1,4 +1,5 @@
-![gradient-dark-blue-futuristic-digital-grid-background](https://github.com/user-attachments/assets/0860a37a-b8a6-4282-a587-14140bd65bbe)
+![Data Enggg Background Img](https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970)
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Data Engineer | Cloud & Big Data | Azure | Databricks | ETL | Data Lakehouse | PySpark | Azure Data Factory | Synapse Analytics | Delta Lake | Skilled MERN Stack Developer | Open to New Opportunities. | Open to New Opportunities.</h3>
 
