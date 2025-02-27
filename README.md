@@ -40,6 +40,9 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Thakur14&show_icons=true&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Thakur14" alt="Abhishek-Thakur14" />
+</p>
 
 
 
