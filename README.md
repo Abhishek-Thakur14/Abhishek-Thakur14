@@ -5,12 +5,12 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on Creating Data Pipelines in Azure 
+- 🔭 I’m currently working on Creating End to End Data Pipelines in Azure 
 - 🌱 I’m currently learning *Data Engineering*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Thakur14](https://github.com/Abhishek-Thakur14)
 
-- 💬 Ask me about * Data EngineerinFront-End & Back-end & Full Stack *
+- 💬 Ask me about * Data Engineering Front-End & Back-end & Full Stack *
 
 - 📫 How to reach me *thecode.abhi@gmail.com*
 
