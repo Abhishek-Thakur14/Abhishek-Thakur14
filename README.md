@@ -1,7 +1,7 @@
 ![Data Enggg Background Img](https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970)
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Data Engineer | Cloud & Big Data | Azure | Databricks | ETL | Data Lakehouse | PySpark | Azure Data Factory | Synapse Analytics | Delta Lake | Skilled MERN Stack Developer | Open to New Opportunities. | Open to New Opportunities.</h3>
+<h3 align="center">Azure Data Engineer | Microsoft Fabric | Cloud Engineer | Databricks | Big Data | ETL Pipelines | Data Lakehouse | PySpark | Azure Data Factory | Synapse Analytics | Delta Lake | Skilled MERN Stack Developer | Open to New Opportunities.</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
