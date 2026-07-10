@@ -1,49 +1,249 @@
-![Data Enggg Background Img](https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970)
+<img src="https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">Azure Data Engineer | Microsoft Fabric | Cloud Engineer | Databricks | Big Data | ETL Pipelines | Data Lakehouse | PySpark | Azure Data Factory | Synapse Analytics | Delta Lake | Skilled MERN Stack Developer | Open to New Opportunities.</h3>
+<h1 align="center">
+Hi 👋 I'm Abhishek Kumar
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<h3 align="center">
+Java Developer • Full Stack Developer • MERN Stack Developer • Data Engineering Enthusiast
+</h3>
 
-- 🔭 I’m currently working on Creating End to End Data Pipelines in Azure 
-- 🌱 I’m currently learning *Data Engineering*
+<p align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Thakur14](https://github.com/Abhishek-Thakur14)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Frontend+Developer;Backend+Developer;Data+Engineering+Enthusiast;Open+to+Software+Engineering+Opportunities"/>
 
-- 💬 Ask me about * Data Engineering Front-End & Back-end & Full Stack *
+</p>
 
-- 📫 How to reach me *thecode.abhi@gmail.com*
+---
 
-- ⚡ Fun fact *My code and I share a secret language; we communicate in algorithms and dance in loops!*
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+💻 Passionate Software Developer who enjoys building scalable web applications and backend systems.
+
+🌱 Currently learning **Azure Data Engineering, Microsoft Fabric, PySpark, Databricks & Cloud Technologies**
+
+💼 Looking for
+
+- Software Engineer
+- Java Developer
+- Full Stack Developer
+- Backend Developer
+- Data Engineer
+
+⚡ I enjoy solving DSA problems and building real-world projects.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+
+---
+
+### Frontend
+
+React
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Tailwind CSS
+
+---
+
+### Backend
+
+Spring Boot
+
+Node.js
+
+Express.js
+
+REST APIs
+
+JWT Authentication
+
+---
+
+### Database
+
+MySQL
+
+MongoDB
+
+PostgreSQL
+
+---
+
+### Cloud & Data Engineering
+
+Azure
+
+Azure Data Factory
+
+Microsoft Fabric
+
+Databricks
+
+PySpark
+
+Delta Lake
+
+Apache Spark
+
+Apache Kafka
+
+Hadoop
+
+Hive
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ IDEA
+
+Postman
+
+Docker
+
+---
+
+# 🌟 Featured Projects
+
+## 📚 Book Store Management System
+
+✔ Java Spring Boot
+
+✔ REST APIs
+
+✔ MySQL
+
+✔ CRUD Operations
+
+✔ Postman Testing
+
+---
+
+## 🏥 Hospital Management System
+
+✔ Java
+
+✔ OOP
+
+✔ CRUD
+
+✔ MySQL
+
+---
+
+## 🍽 Restaurant Booking Website
+
+✔ MERN Stack
+
+✔ Authentication
+
+✔ Responsive UI
+
+✔ Booking System
+
+---
+
+## 🛒 GrabMART E-Commerce
+
+✔ MERN Stack
+
+✔ Admin Dashboard
+
+✔ JWT Authentication
+
+✔ Order Management
+
+---
+
+## 🌐 Personal Portfolio
+
+✔ React
+
+✔ Responsive Design
+
+✔ Modern UI
+
+✔ GitHub Pages
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Thakur14&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Thakur14&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Thakur14&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Thakur14&theme=onedark&column=4"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/abhishekkumar1414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekkumar1414" height="30" width="40" /></a>
-<a href="https://fb.com/thakur14abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thakur14abhishek" height="30" width="40" /></a>
-<a href="https://instagram.com/aalsi_abhishek_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aalsi_abhishek_/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/Abhishek_kumar_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/Abhishek_kumar_14/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/thecodxcl7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/thecodxcl7/" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/abhishekkumar1414">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:thecode.abhi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.leetcode.com/u/Abhishek_kumar_14/">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/user/thecodxcl7/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Thakur14&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Thakur14" /> </p>
+![](https://komarev.com/ghpvc/?username=Abhishek-Thakur14&style=for-the-badge)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Thakur14" alt="Abhishek-Thakur14" /></a> </p>
-
-
-# 📊 GitHub Stats:
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Thakur14&show_icons=true&theme=gotham" alt="Abhishek-Thakur14" />
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Thakur14&show_icons=true&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Thakur14" alt="Abhishek-Thakur14" />
-</p>
-
-
-
-
+⭐ If you like my work, consider starring my repositories.
