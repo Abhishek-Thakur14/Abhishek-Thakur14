@@ -1,5 +1,8 @@
 <!-- <img src="https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970" width="10https://github.com/Abhishek-Thakur14/Abhishek-Thakur14/blob/a1bbe768c286333c3581c1faa60ae61494634e11/Github%20background.jpg0%"/> -->
-<img src="[https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970](https://github.com/Abhishek-Thakur14/Abhishek-Thakur14/blob/main/Github%20background.jpg?raw=true)" width="100%"/>
+<!-- <img src="[https://github.com/user-attachments/assets/b509f7e7-0e36-4672-9773-b58d3d185970](https://github.com/Abhishek-Thakur14/Abhishek-Thakur14/blob/main/Github%20background.jpg?raw=true)" width="100%"/> -->
+<p align="center">
+  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="GitHub Banner" width="100%">
+</p>
 
 
 <h1 align="center">
