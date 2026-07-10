@@ -5,7 +5,7 @@ Hi 👋 I'm Abhishek Kumar
 </h1>
 
 <h3 align="center">
-Java Developer • Full Stack Developer • MERN Stack Developer • Data Engineering Enthusiast
+Java Developer • Full Stack Developer • MERN Stack Developer • Data Engineering Enthusiast • AWS & Azure Cloud Enthusiast 
 </h3>
 
 <p align="center">
@@ -20,13 +20,13 @@ Java Developer • Full Stack Developer • MERN Stack Developer • Data Engine
 
 💻 Passionate Software Developer who enjoys building scalable web applications and backend systems.
 
-🌱 Currently learning **Azure Data Engineering, Microsoft Fabric, PySpark, Databricks & Cloud Technologies**
+🌱 Currently learning **Java Full Stack Developer, Spring Boot & Cloud Technologies**
 
 💼 Looking for
 
 - Software Engineer
-- Java Developer
-- Full Stack Developer
+- Full Stack Java Developer
+- MERN Stack Developer
 - Backend Developer
 - Data Engineer
 
